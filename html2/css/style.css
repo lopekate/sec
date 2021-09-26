@@ -1,0 +1,16 @@
+body{
+   background-color: rgb(255, 236, 219); 
+   margin: 0;
+}
+
+.header {
+   width: 100%; background-color: rgb(189, 112, 89); padding: 0px; height: 120px;
+   margin: 10px;
+}
+
+.nav{
+   background-color: rgb(241, 184, 133);
+}
+.menu{
+   margin: 0 auto;
+}
